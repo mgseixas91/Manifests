@@ -17,7 +17,7 @@ manifests/
         ├── deployment.yaml
         └── service.yaml
 ```
-
+Para esse cenário atual com aplicações básicas usar Deployment puro é mais direto e mais leve e atende perfeitamente, por esse motivo não foi utilizado helm.
 ---
 
 ## Organização e Separação dos Manifests
